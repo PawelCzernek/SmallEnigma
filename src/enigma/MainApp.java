@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-<<<<<<< HEAD
+
 /*
  * Simple Enigma mainapp.
  * It loads encoding combinations into rotors from file (rotors.txt) 
@@ -18,8 +18,6 @@ import java.util.regex.Pattern;
  * @author Paweł Czernek
  */
 
-=======
->>>>>>> 60ebc59... initial project version
 public class MainApp {
 
 	static Scanner in = null;

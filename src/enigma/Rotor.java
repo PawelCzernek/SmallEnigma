@@ -1,13 +1,11 @@
 package enigma;
 
-<<<<<<< HEAD
 /*
  * Model class for rotor. 
  * 
  * @author Paweł Czernek
  */
-=======
->>>>>>> 60ebc59... initial project version
+
 public class Rotor {
 	
 	private static int SIZE_OF_ROTOR = 64;

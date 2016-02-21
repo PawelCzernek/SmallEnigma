@@ -1,6 +1,5 @@
 package enigma;
 
-<<<<<<< HEAD
 /*
  * Model class for Enigma. 
  * It takes 3 rotors and one reverting rotor.
@@ -10,8 +9,6 @@ package enigma;
  * @author Paweł Czernek
  */
 
-=======
->>>>>>> 60ebc59... initial project version
 public class Enigma {
 	
 	private static final int CHARACTER_CODING_OFFSET = 32;
