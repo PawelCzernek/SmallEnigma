@@ -1,8 +1,18 @@
 package enigma;
 
+/*
+ * Model class for Enigma. 
+ * It takes 3 rotors and one reverting rotor.
+ * After encrypt each character it rotate first rotor one step.
+ * When first rotor rotates full rotation, next rotor turn one step.
+ * 
+ * @author Paweł Czernek
+ */
+
 public class Enigma {
 	
 	private static final int CHARACTER_CODING_OFFSET = 32;
+	
 	
 	private Rotor rotor1;
 	private Rotor rotor2;

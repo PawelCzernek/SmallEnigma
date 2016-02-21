@@ -1,5 +1,10 @@
 package enigma;
 
+/*
+ * Model class for rotor. 
+ * 
+ * @author Paweł Czernek
+ */
 public class Rotor {
 	
 	private static int SIZE_OF_ROTOR = 64;

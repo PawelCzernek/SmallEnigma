@@ -7,6 +7,16 @@ import java.nio.file.Paths;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
+/*
+ * Simple Enigma mainapp.
+ * It loads encoding combinations into rotors from file (rotors.txt) 
+ * and initial starting position of rotors from file (init.txt).
+ * Next You set destination file to write encrypted text, and last
+ * load text to encrypt from file.
+ * 
+ * @author Paweł Czernek
+ */
+
 public class MainApp {
 
 	static Scanner in = null;
